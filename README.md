@@ -14,6 +14,8 @@ created at Twitter, and is used by the [twitter.com](https://twitter.com/) and
 * [Flight on Twitter](https://twitter.com/flightjs)
 * [Flight on Freenode IRC](http://webchat.freenode.net/?channels=flightjs) (#flightjs)
 
+**Note**: work is currently ongoing for Flight v2 and beyond, while make some breaks with backward compatibility. To see the latest v1.x code, check out [the barnch](https://github.com/flightjs/flight/tree/v1.x).
+
 ## Example
 
 A simple example of a Flight component.
